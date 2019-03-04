@@ -1,0 +1,6 @@
+This is an object of the CustomInputEvaluator class
+
+This class has no publically accessible methods only
+2 publically accessible attributes result and normalized
+Result that return the dataframe result after computing user
+entered user alpha expression.

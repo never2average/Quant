@@ -1,0 +1,6 @@
+This is an object of the DataRegistry class.
+
+These objects have only only publically accessible function getData
+which returns a dataframe of an attribute. Takes only 2 attributes
+which is the list of stock tickers and the name of the attribute 
+like open and close and so on. 

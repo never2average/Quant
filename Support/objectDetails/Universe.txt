@@ -1,0 +1,3 @@
+This object belongs to the Universe class.
+
+These objects can access one method publically i.e. listUniverseTickers()which takes only one string arguement which is the name of the universe from which tickers are to be obtained and returns them as a list
